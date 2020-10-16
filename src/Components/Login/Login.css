@@ -1,0 +1,25 @@
+.login .btn-container {
+    max-width: 400px;
+    background-color: #fff;
+    padding: 70px 40px;
+    border-radius: 6px;
+    margin: 40px auto;
+  }
+  .login {
+    background-color: #ebecf0;
+    height: 100vh;
+  }
+  .signInBtn {
+    background-color: #00b36b;
+    width: 90%;
+    color: #fff;
+    margin: 0 auto;
+    border-radius: 30px;
+  }
+  .signInBtn:hover {
+    color: #fff;
+    box-shadow: -2px -2px 4px #a7f3d5, 1px 1px 2px #00b36b;
+  }
+  .logo2{
+      height: 100px;
+  }

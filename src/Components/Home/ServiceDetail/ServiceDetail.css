@@ -1,0 +1,8 @@
+.service{
+    text-decoration: none;
+    padding: 5rem;
+}
+
+.service:hover{
+    box-shadow: 4px solid red;
+}
